@@ -1,0 +1,2 @@
+sudo apt-get update; sudo apt-get install vim htop curl wget less open-vm-tools bzip2 dnsutils lsof bash-completion ca-certificates openssl unzip zip dbus mc iperf git zsh screen tmux;
+sudo apt-get update; sudo apt-get dist-upgrade; sudo apt-get autoremove --purge; sudo apt-get clean;
